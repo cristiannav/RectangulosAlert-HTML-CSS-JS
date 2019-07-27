@@ -1,0 +1,33 @@
+#rect1{
+  margin:0px auto;
+  background-color: #98b7dd;
+  border-color: #97b6dc;
+  border-style: solid;
+  text-align: center;
+  width: 50%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+
+#rect2{
+  margin:0px auto;
+  background-color: #f29644;
+  border-color:  #97b6dc;
+  border-style: solid;
+  text-align: center;
+  width: 50%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+
+#rect3{
+  margin:0px auto;
+  background-color: #f29644;
+  border-color:  #97b6dc;
+  border-style: solid;
+  text-align: center;
+  width: 50%;
+  padding: 50px;
+}
